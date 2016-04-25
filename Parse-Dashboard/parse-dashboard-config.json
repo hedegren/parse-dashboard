@@ -9,7 +9,7 @@
   ],
   "users": [
     {
-      "user":"admin", // Used to log in to your Parse Dashboard
+      "user":"admin",
       "pass":"admin"
     }
   ]
