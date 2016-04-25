@@ -1,20 +1,15 @@
 {
     "apps": [{
-            "serverURL": "https://com-dab-parse-server.herokuapp.com/",
-            "appId": "appid",
-            "masterKey": "masterkey",
-            "appName": "Bonsai"
-    }, {
-            "serverURL": "https://com-dab-parse-server.herokuapp.com/",
-            "appId": "appid",
-            "masterKey": "masterkey",
-            "appName": "BonsaiDev"
+            "serverURL": "https://com-idab-bonsai-dev.herokuapp.com/parse",
+            "appId": "adfASD892asdasdasd32asd",
+            "masterKey": "857asdASD7sdds7sd",
+            "appName": "Bonsai Dev"
     }
   ],
     "users": [
         {
             "user": "admin",
-            "pass": "admin"
+            "pass": "asdkjsla723423asdaASD8a8"
     }
   ]
 }
