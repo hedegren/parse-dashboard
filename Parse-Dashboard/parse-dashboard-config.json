@@ -1,5 +1,16 @@
 {
   "apps": [
-
+    {
+        "serverURL": "https://com-dab-parse-server.herokuapp.com/parse",
+        "appId": "appid",
+        "masterKey": "masterkey",
+        "appName": "Bonsai"
+    }
+  ],
+  "users": [
+    {
+      "user":"admin", // Used to log in to your Parse Dashboard
+      "pass":"admin"
+    }
   ]
 }
