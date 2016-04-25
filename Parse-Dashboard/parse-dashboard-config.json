@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-        "serverURL": "https://com-dab-parse-server.herokuapp.com/parse",
+        "serverURL": "https://com-dab-parse-server.herokuapp.com/",
         "appId": "appid",
         "masterKey": "masterkey",
         "appName": "Bonsai"
