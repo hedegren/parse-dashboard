@@ -1,6 +1,6 @@
 {
     "apps": [{
-            "serverURL": "https://com-idab-bonsai-dev.herokuapp.com/parse",
+            "serverURL": "https://idab-bonsai-dev.herokuapp.com/parse",
             "appId": "adfASD892asdasdasd32asd",
             "masterKey": "857asdASD7sdds7sd",
             "javascriptKey": "asdsad723897437829hadsdakadshkhj32hj3khj",
